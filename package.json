@@ -1,0 +1,1 @@
+{"name":"hftd","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start","migrate":"node scripts/migrate.mjs","seed":"node scripts/seed-admin.mjs"},"dependencies":{"@react-three/fiber":"^9.0.0","@supabase/supabase-js":"^2","next":"^15","nodemailer":"^10.0.15","pg":"^8","react":"^19","react-dom":"^19","three":"^0.170.0"}}
